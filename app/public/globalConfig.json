@@ -1,0 +1,15 @@
+{
+    "tokens": [
+        {
+            "contractAddress": "0xf5446b6e25ab41675c938a5f785298afbea8f013",
+            "name": "Zephyr Exchange Token",
+            "symbol": "ZET"       
+        },
+        {
+            "contractAddress": "0x7295bb8709ec1c22b758a8119a4214ffed016323",
+            "name": "Test Golem Token",
+            "symbol": "tGnt"       
+        }
+    ],
+    "defaultToken": "0xf5446b6e25ab41675c938a5f785298afbea8f013"
+}
