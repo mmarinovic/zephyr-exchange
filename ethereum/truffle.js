@@ -10,7 +10,7 @@ module.exports = {
     rinkeby: {
       provider: function() {
         return new HDWalletProvider(
-          'attend twist rally finger fetch any cake kiss uncle monitor glimpse fruit',
+          'memonic',
           'https://rinkeby.infura.io/ZKxA2TsccPJIoWO5h7EO'
         )
       },
